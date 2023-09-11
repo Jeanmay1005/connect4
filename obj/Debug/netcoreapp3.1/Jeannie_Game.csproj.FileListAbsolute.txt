@@ -1,0 +1,24 @@
+/Users/owner/Desktop/Jeannie_Game/Jeannie_Game/bin/Debug/netcoreapp3.1/Jeannie_Game.deps.json
+/Users/owner/Desktop/Jeannie_Game/Jeannie_Game/bin/Debug/netcoreapp3.1/Jeannie_Game.runtimeconfig.json
+/Users/owner/Desktop/Jeannie_Game/Jeannie_Game/bin/Debug/netcoreapp3.1/Jeannie_Game.runtimeconfig.dev.json
+/Users/owner/Desktop/Jeannie_Game/Jeannie_Game/bin/Debug/netcoreapp3.1/Jeannie_Game.dll
+/Users/owner/Desktop/Jeannie_Game/Jeannie_Game/bin/Debug/netcoreapp3.1/Jeannie_Game.pdb
+/Users/owner/Desktop/Jeannie_Game/Jeannie_Game/obj/Debug/netcoreapp3.1/Jeannie_Game.csproj.AssemblyReference.cache
+/Users/owner/Desktop/Jeannie_Game/Jeannie_Game/obj/Debug/netcoreapp3.1/Jeannie_Game.AssemblyInfoInputs.cache
+/Users/owner/Desktop/Jeannie_Game/Jeannie_Game/obj/Debug/netcoreapp3.1/Jeannie_Game.AssemblyInfo.cs
+/Users/owner/Desktop/Jeannie_Game/Jeannie_Game/obj/Debug/netcoreapp3.1/Jeannie_Game.csproj.CoreCompileInputs.cache
+/Users/owner/Desktop/Jeannie_Game/Jeannie_Game/obj/Debug/netcoreapp3.1/Jeannie_Game.dll
+/Users/owner/Desktop/Jeannie_Game/Jeannie_Game/obj/Debug/netcoreapp3.1/Jeannie_Game.pdb
+/Users/owner/Desktop/Jeannie_Game/Jeannie_Game/obj/Debug/netcoreapp3.1/Jeannie_Game.genruntimeconfig.cache
+/Users/owner/Desktop/QUT/Object Orieted Design/n10883789_LiChen_Huang_IFN563_Implementation/Jeannie_Game/bin/Debug/netcoreapp3.1/Jeannie_Game.deps.json
+/Users/owner/Desktop/QUT/Object Orieted Design/n10883789_LiChen_Huang_IFN563_Implementation/Jeannie_Game/bin/Debug/netcoreapp3.1/Jeannie_Game.runtimeconfig.json
+/Users/owner/Desktop/QUT/Object Orieted Design/n10883789_LiChen_Huang_IFN563_Implementation/Jeannie_Game/bin/Debug/netcoreapp3.1/Jeannie_Game.runtimeconfig.dev.json
+/Users/owner/Desktop/QUT/Object Orieted Design/n10883789_LiChen_Huang_IFN563_Implementation/Jeannie_Game/bin/Debug/netcoreapp3.1/Jeannie_Game.dll
+/Users/owner/Desktop/QUT/Object Orieted Design/n10883789_LiChen_Huang_IFN563_Implementation/Jeannie_Game/bin/Debug/netcoreapp3.1/Jeannie_Game.pdb
+/Users/owner/Desktop/QUT/Object Orieted Design/n10883789_LiChen_Huang_IFN563_Implementation/Jeannie_Game/obj/Debug/netcoreapp3.1/Jeannie_Game.csproj.AssemblyReference.cache
+/Users/owner/Desktop/QUT/Object Orieted Design/n10883789_LiChen_Huang_IFN563_Implementation/Jeannie_Game/obj/Debug/netcoreapp3.1/Jeannie_Game.AssemblyInfoInputs.cache
+/Users/owner/Desktop/QUT/Object Orieted Design/n10883789_LiChen_Huang_IFN563_Implementation/Jeannie_Game/obj/Debug/netcoreapp3.1/Jeannie_Game.AssemblyInfo.cs
+/Users/owner/Desktop/QUT/Object Orieted Design/n10883789_LiChen_Huang_IFN563_Implementation/Jeannie_Game/obj/Debug/netcoreapp3.1/Jeannie_Game.csproj.CoreCompileInputs.cache
+/Users/owner/Desktop/QUT/Object Orieted Design/n10883789_LiChen_Huang_IFN563_Implementation/Jeannie_Game/obj/Debug/netcoreapp3.1/Jeannie_Game.dll
+/Users/owner/Desktop/QUT/Object Orieted Design/n10883789_LiChen_Huang_IFN563_Implementation/Jeannie_Game/obj/Debug/netcoreapp3.1/Jeannie_Game.pdb
+/Users/owner/Desktop/QUT/Object Orieted Design/n10883789_LiChen_Huang_IFN563_Implementation/Jeannie_Game/obj/Debug/netcoreapp3.1/Jeannie_Game.genruntimeconfig.cache

@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/owner/Desktop/QUT/Object Orieted Design/n10883789_LiChen_Huang_IFN563_Implementation/Jeannie_Game/Jeannie_Game.csproj": {}
+  },
+  "projects": {
+    "/Users/owner/Desktop/QUT/Object Orieted Design/n10883789_LiChen_Huang_IFN563_Implementation/Jeannie_Game/Jeannie_Game.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/owner/Desktop/QUT/Object Orieted Design/n10883789_LiChen_Huang_IFN563_Implementation/Jeannie_Game/Jeannie_Game.csproj",
+        "projectName": "Jeannie_Game",
+        "projectPath": "/Users/owner/Desktop/QUT/Object Orieted Design/n10883789_LiChen_Huang_IFN563_Implementation/Jeannie_Game/Jeannie_Game.csproj",
+        "packagesPath": "/Users/owner/.nuget/packages/",
+        "outputPath": "/Users/owner/Desktop/QUT/Object Orieted Design/n10883789_LiChen_Huang_IFN563_Implementation/Jeannie_Game/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/owner/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

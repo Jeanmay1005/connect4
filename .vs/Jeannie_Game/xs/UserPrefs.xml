@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{2E66F68B-3524-4E37-B867-3132591250D5}|Default">
+  <MonoDevelop.Ide.ItemProperties.Jeannie__Game PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="History.cs">
+    <Files>
+      <File FileName="Rules.cs" Line="12" Column="1" />
+      <File FileName="Cnt4Rules.cs" />
+      <File FileName="UndoCommand.cs" />
+      <File FileName="ContRound.cs" />
+      <File FileName="History.cs" Line="1" Column="1" />
+      <File FileName="Round.cs" />
+      <File FileName="RedoCommand.cs" Line="18" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
